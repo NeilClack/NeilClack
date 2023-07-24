@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Redux and Node.js for full-stack web development.
 - 💞️ I’m looking to collaborate on nothing, right now. I'm busy learing and building.
 - 📫 How to reach me on [LinkedIn](https://linkedin.com/in/NeilClack), on Github, or by [Email](NeilClack001@gmail.com)
-- 
 
 <!---
 NeilClack/NeilClack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
