@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Neil
 
-I'm an associate level web developer with more projects in mind than I can count. Im interested in everything from web development to AI/ML, microcontrollers to aerospace, and from Earth to the deepest, darkest depths of Space. I'm even designing my own telescope during my breaks from coding!
+I'm a Full Stack web developer with more projects in mind than I can count. Im interested in everything from web development to AI/ML, microcontrollers to aerospace, and from Earth to the deepest, darkest depths of Space. I'm even designing my own telescope during my breaks from coding!
 
 Skills: REACT / NODE / PYTHON / MySQL
 
-- 🔭 I’m currently working on a React weather app
+- 🔭 I’m currently working on a Real Time chat app built on NextJs
 - 🌱 I’m currently learning React, Redux & Node
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeilClack) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NeilClack/)
